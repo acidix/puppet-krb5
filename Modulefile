@@ -1,4 +1,4 @@
-name 'puppet-krb5'
+name 'krb5'
 version '0.0.2'
 
 author 'IvanBayan'

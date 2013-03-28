@@ -1,12 +1,12 @@
 {
-  "name": "puppet-krb5",
+  "name": "krb5",
   "author": "IvanBayan",
   "description": "Generate krb5.conf",
   "license": "GPLv3",
   "project_page": "https://github.com/IvanBayan/puppet-krb5",
   "source": "",
   "summary": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "checksums": {
     "Modulefile": "5d53ca4c942578f4d471460a14fbcc78",
     "README": "2d73ba841e618417d50552d9e692b56b",
