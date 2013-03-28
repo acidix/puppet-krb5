@@ -1,6 +1,6 @@
 class krb5::params {
   case $::operatingsystem {
-    /(Debian)/: {
+    /(Debian)/,/(Ubuntu): {
     	if $::lsbmajdistrelease == 6 {
     		$package = 'libkrb53'
     	}      
